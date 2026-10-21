@@ -1,0 +1,13 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+downloads/
+.DS_Store
+.pytest_cache/
+*.zip
+*.bundle
+video/.profile/
+video/raw/
+video/out/
+video/assets/

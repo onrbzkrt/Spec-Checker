@@ -1,0 +1,11 @@
+part_number,part_name,category,material,expected_result,failed_checks,file
+INT-IP-1001,Instrument Panel Upper Substrate,Instrument Panel,PP-TD20,PASS,-,INT-IP-1001_Instrument_Panel_Upper_Substrate.pdf
+INT-DR-2003,Front Door Trim Panel LH,Door Trim,PP-TD20,WARNING,mass,INT-DR-2003_Front_Door_Trim_Panel_LH.pdf
+INT-CN-3002,Center Console Storage Bin,Console,ABS,FAIL,cost,INT-CN-3002_Center_Console_Storage_Bin.pdf
+INT-ST-4001,Driver Seat Cushion Foam,Seat Foam,PU Foam,WARNING,flammability; odor,INT-ST-4001_Driver_Seat_Cushion_Foam.pdf
+INT-HL-5001,Headliner Substrate,Headliner,PET Fiber Composite,PASS,-,INT-HL-5001_Headliner_Substrate.pdf
+INT-PL-6002,A-Pillar Trim RH,Pillar Trim,ABS,FAIL,material,INT-PL-6002_A-Pillar_Trim_RH.pdf
+INT-DR-2004,Rear Door Trim Panel RH,Door Trim,PP-GF20,FAIL,flammability,INT-DR-2004_Rear_Door_Trim_Panel_RH.pdf
+INT-CN-3005,Console Armrest Lid,Console,PC/ABS,WARNING,documentation,INT-CN-3005_Console_Armrest_Lid.pdf
+INT-IP-1004,Glovebox Door,Instrument Panel,PC/ABS,WARNING,mass; cost,INT-IP-1004_Glovebox_Door.pdf
+INT-ST-4003,Rear Seat Back Foam,Seat Foam,PU Foam,FAIL,density,INT-ST-4003_Rear_Seat_Back_Foam.pdf
